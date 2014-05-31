@@ -1,3 +1,3 @@
-Pulled pork
-BLT
-Brie and serranno
+# README
+
+This is just a repo as part of @jlord's git-it nodeschool workshop
